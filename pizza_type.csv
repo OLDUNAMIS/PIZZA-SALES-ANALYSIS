@@ -1,0 +1,11 @@
+pizza_type_id,name,category,ingredients
+pizza_margherita,Margherita,Vegetarian,"tomato sauce, mozzarella, basil"
+pizza_pepperoni,Pepperoni,Meat,"tomato sauce, mozzarella, pepperoni"
+pizza_bbq_chicken,BBQ Chicken,Meat,"bbq sauce, mozzarella, chicken"
+pizza_hawaiian,Hawaiian,Meat,"tomato sauce, mozzarella, ham, pineapple"
+pizza_veggie,Veggie,Vegetarian,"tomato sauce, mozzarella, peppers, onions, olives"
+pizza_buffalo_chicken,Buffalo Chicken,Meat,"buffalo sauce, mozzarella, chicken"
+pizza_mushroom,Mushroom,Vegetarian,"tomato sauce, mozzarella, mushrooms"
+pizza_supreme,Supreme,Meat,"tomato sauce, mozzarella, pepperoni, sausage, vegetables"
+pizza_spinach_feta,Spinach and Feta,Vegetarian,"spinach, feta cheese, garlic"
+pizza_meat_lovers,Meat Lovers,Meat,"pepperoni, sausage, bacon, ham"
